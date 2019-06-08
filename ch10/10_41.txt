@@ -1,0 +1,4 @@
+1-把从begin到end的所有值为old_val的替换为值new_val；
+2-把从begin到end的所有pred返回非0的元素替换为值new_val；
+3-把从begin到end所有值为old_val的元素替换为new_val，拷贝到dest处；
+4-把从begin到end的所有pred返回非0的元素替换为值new_val，拷贝到dest处。
